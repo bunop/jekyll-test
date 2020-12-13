@@ -11,3 +11,7 @@ https://jekyllrb.com/docs/step-by-step/01-setup/
 Enabling actions by following:
 
 https://jekyllrb.com/docs/continuous-integration/github-actions/
+
+Support for github pages:
+
+https://jekyllrb.com/docs/github-pages/

@@ -1,3 +1,5 @@
+baseurl: /jekyll-test
+
 collections:
   authors:
     output: true
